@@ -1,0 +1,109 @@
+[
+  {
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icon/ShakzzVerse.png",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 79757,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 62,
+        "internalName": "ShakzzVerse",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
+        "name": "ShakzzVerse"
+    },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icon/moviebox.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 80822,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "shakzz05"
+    ],
+    "tvTypes": [
+      "Movie", 
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "MovieBox",
+    "description": "MovieBox provider extension",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/MovieBox.cs3",
+    "name": "MovieBox"
+  },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icon/kisskh.jpg",
+        "jarFileSize": 110555,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 25175,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "KisskhProvider",
+        "jarUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/KisskhProvider.jar",
+        "description": "KDrama, CDrama. Anime, TVSeries",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icon/Animexin.png",
+        "jarFileSize": 55663,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 31456,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 7,
+        "internalName": "Animexin",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Animexin.cs3",
+        "name": "Animexin"
+    },
+  {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+        "jarFileSize": 84834,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 18673,
+        "status": 1,
+        "language": "fil",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Pinoymoviepedia",
+        "jarUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Pinoymoviepedia.jar",
+        "description": "Contains Bluray7",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Pinoymoviepedia.cs3",
+        "name": "Pinoymoviepedia"
+    }
+]
