@@ -14,7 +14,7 @@ In CloudStream go to **Settings → Extensions → Add repository** and paste:
 https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/repo.json
 ```
 
-**Shortcode**: `Shakzzrepo`
+**Shortcode**: `Shakzz05`
 
 ## 🌐 Plugin Servers
 
