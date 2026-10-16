@@ -1,6 +1,7 @@
 {
-  "name": "Shakzz Repo(Filipino & English",
-  "description": "JUst Doing for fun",
+  "name": "Shakzz Repo (Filipino & English)",
+  "description": "Just doing it for fun",
+  "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/RepoIcon.jpg",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/plugins.json"
