@@ -18,6 +18,27 @@
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
         "name": "ShakzzVerse"
     },
+	 {
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/AniSuge.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AniSuge",
+        "internalName": "AniSuge",
+        "authors": [
+            "Shakzz"
+        ],
+        "description": "Anime from AniSuge with Sub and Dub support",
+        "fileSize": 71132,
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/AniSuge.jpg",
+        "apiVersion": 1
+    },
   {
     "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
     "apiVersion": 1,
