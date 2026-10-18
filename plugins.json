@@ -18,6 +18,25 @@
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
         "name": "ShakzzVerse"
     },
+	{
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 51345,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Viu",
+        "description": "Viu Philippines: Asian dramas, movies and shows with English subtitles.",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Viu.cs3",
+        "name": "Viu"
+    },
 	 {
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/AniSuge.cs3",
         "status": 1,
