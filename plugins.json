@@ -21,7 +21,7 @@
 	{
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-        "fileSize": 51345,
+        "fileSize": 50657,
         "status": 1,
         "language": "en",
         "authors": [
@@ -47,7 +47,7 @@
             "Shakzz"
         ],
         "description": "Anime from AniSuge with Sub and Dub support",
-        "fileSize": 71132,
+        "fileSize": 70299,
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
         "language": "en",
         "tvTypes": [
@@ -62,7 +62,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-    "fileSize": 87979,
+    "fileSize": 87189,
     "status": 1,
     "language": "en",
     "authors": [
