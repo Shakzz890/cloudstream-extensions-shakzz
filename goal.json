@@ -1,13 +1,12 @@
 {
-  "month": "2026-10",
-  "monthName": "October 2026",
-  "targetAmount": 50,
-  "currentAmount": 10,
-  "supportersCount": 2,
-  "currency": "$",
-  "updatedAt": "2026-10-09T07:58:59.699Z",
   "repoName": "Shakzz Repo",
   "repoHandle": "shakzz05",
-  "extensionsCount": 4,
-  "message": "Keep these extensions alive. No ads, no paywalls, just community support."
+  "monthName": "October 2026",
+  "targetAmount": 1000,
+  "currentAmount": 0,
+  "supportersCount": 0,
+  "currency": "₱",
+  "message": "Keep these extensions alive. No ads, no paywalls — just community support.",
+  "extensionsCount": 7,
+  "updatedAt": "2026-11-01T00:00:00Z"
 }
