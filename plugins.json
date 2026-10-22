@@ -19,6 +19,24 @@
         "name": "ShakzzVerse"
     },
 	{
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/StreamKing.png",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 33806,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "StreamKing",
+        "description": "Watch Different Live Sports!",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/StreamKing.cs3",
+        "name": "StreamKing"
+    },
+	{
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
         "fileSize": 50657,
@@ -58,11 +76,31 @@
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/AniSuge.jpg",
         "apiVersion": 1
     },
+	{
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/netflix.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 95395,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "shakzz05"
+    ],
+    "tvTypes": [
+      "Movie", 
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "NetMirror",
+    "description": "Original (NetNaija) NetMirror Watch Movie,Series,Anime",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Netmirror.cs3",
+    "name": "NetMirror"
+  },
   {
     "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-    "fileSize": 87189,
+    "fileSize": 86232,
     "status": 1,
     "language": "en",
     "authors": [
