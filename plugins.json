@@ -2,7 +2,7 @@
   {
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/ShakzzVerse.png",
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-        "fileSize": 79757,
+        "fileSize": 44562,
         "status": 0,
         "language": "en",
         "authors": [
@@ -12,11 +12,30 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 62,
+        "version": 63,
         "internalName": "ShakzzVerse",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
         "name": "ShakzzVerse"
+    },
+	{
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/netflix.jpg",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 9047,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "NetMirror",
+        "description": "Orginally called NetNaija Watch stream now",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Netmirror.cs3",
+        "name": "NetMirror"
     },
 	{
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
@@ -62,7 +81,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-    "fileSize": 87189,
+    "fileSize": 8489,
     "status": 1,
     "language": "en",
     "authors": [
