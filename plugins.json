@@ -2,8 +2,8 @@
   {
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/ShakzzVerse.png",
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-        "fileSize": 44562,
-        "status": 0,
+        "fileSize": 66295,
+        "status": 1,
         "language": "en",
         "authors": [
             "Shakzz"
@@ -17,6 +17,26 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
         "name": "ShakzzVerse"
+    },
+	{
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/WitAnime.png",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 28412,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WitAnime",
+        "description": "Anime from WitAnime with Sub and Dub support",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/WitAnime.cs3",
+        "name": "WitAnime"
     },
 	{
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/netflix.jpg",
@@ -81,7 +101,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/moviebox.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-    "fileSize": 8489,
+    "fileSize": 86248,
     "status": 1,
     "language": "en",
     "authors": [
