@@ -18,10 +18,30 @@
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
         "name": "ShakzzVerse"
     },
-	{
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/AnimePhoenix.jpg",
+        "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+        "fileSize": 57932,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Shakzz"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimePhoenix",
+        "description": "Arabic subbed and dubbed anime from Anime Phoenix.",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/AnimePhoenix.cs3",
+        "name": "AnimePhoenix"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/WitAnime.png",
         "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
-        "fileSize": 28412,
+        "fileSize": 39241,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -34,7 +54,7 @@
         ],
         "version": 1,
         "internalName": "WitAnime",
-        "description": "Anime from WitAnime with Sub and Dub support",
+        "description": "Arabic subbed and dubbed anime from WitAnime.",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/WitAnime.cs3",
         "name": "WitAnime"
     },
