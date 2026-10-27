@@ -1,10 +1,14 @@
 # Shakzz Repo
 
-CloudStream extensions by **shakzz05**.
+CloudStream extensions by **shakzz05**. Now featuring extensions across multiple languages including English, Filipino, and Arabic!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/shakzz05)
+🌐 **Official Website:** [shakzzverse.pages.dev](https://shakzzverse.pages.dev/)
 
-☕ **Support the project:** [buymeacoffee.com/shakzz05](https://buymeacoffee.com/shakzz05)
+## ☕ Support the Project
+If you are enjoying these extensions and want to show some support, feel free to drop a donation to keep the project and servers alive. There is absolutely no pressure—I just build these for fun!
+
+**Visit the Support Page to scan QR codes for GCash, Maya, and BPI, and to see the Wall of Fame:**
+👉 [**shakzzverse.pages.dev/support**](https://shakzzverse.pages.dev/support)
 
 ## Install
 
